@@ -3,7 +3,7 @@ Embedded systems course project
 
 Project Name: DL Model Optimization for Lightweight Gesture Recognition
 <br>
-Dataset: Gesture Recognition - LeapGestRecog
+Dataset: <a href="https://www.kaggle.com/datasets/gti-upm/leapgestrecog">  Gesture Recognition </a>
 <br>
 Description:<br>
 This project focuses on optimizing deep learning models for image classification using the Keras library. We utilize the LeapGestRecog dataset, available on Kaggle, which comprises 20,000 hand gesture images of 10 different gestures performed by 10 subjects. The main techniques employed for model optimization include:<br>
