@@ -13,6 +13,7 @@ This project focuses on optimizing deep learning models for image classification
 3) Changing the parameters <br>
 4) Changing the number of layers
 5) Quantization <br>
+
 These techniques are applied to enhance the efficiency and performance of the convolutional neural network (CNN) models for lightweight gesture recognition tasks.<br>
 
-The detailed explanation, results and conclusion is present in the report : <a href ="https://github.com/Rahul28428/DL-model-optimization-for-Lightweight-Gesture-Recognition/edit/main/B20CS047_ESE4.pdf"> Report </a>
+The detailed explanation, results and conclusion is present in the report : <a href ="https://github.com/Rahul28428/DL-model-optimization-for-Lightweight-Gesture-Recognition/blob/main/B20CS047_ESE4.pdf"> Report </a>
